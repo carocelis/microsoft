@@ -1,0 +1,33 @@
+body{
+	text-align: center; /*alineando texto y fotos*/
+	font-family: 'Shadows Into Light'; /*cambiando la fuente de todo el texto*/
+}
+.cuadrado_color{
+	/*background-color: pink;*/
+	background-color: #B20240; /* cambiando el color de mi primera caja*/
+	/*background-color: rgb(86,102,161);*/
+	padding-bottom: 20px /*dar espacio*/
+}
+h1{
+	color: #050020; /* cambiando color de h1*/
+	
+}
+h3{
+	color: #050020;
+	
+}
+p{
+	color: #050020;
+	
+}
+/*img{
+	width: 400px;
+	height: 400px;
+}*/ /*cambiando el tamaño de las dos imágenes*/
+/*.primerafoto{
+	width: ;
+	height:;
+}*/ /*cambiando el tamaño de una foto*/
+.enlaces{
+	border-top: 1px solid black;
+}
